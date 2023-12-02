@@ -1,0 +1,5 @@
+fitz==3.2.0
+transformers==4.20.0
+ipywidgets==7.7.0
+google.colab>=1.72
+ipython==8.1.1
